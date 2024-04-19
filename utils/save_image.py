@@ -1,4 +1,5 @@
 import base64, time
+from .olive_distance import distance_approximation
 
 IMAGE_COUNTER = 0
 
@@ -17,6 +18,8 @@ def save_image(image_data):
     # Save the decoded image data to a file
     with open(file_path, 'wb') as image_file:
         image_file.write(decoded_data)
+
+    distance_approximation(filename)
 
     IMAGE_COUNTER += 1
 
