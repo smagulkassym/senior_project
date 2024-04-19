@@ -43,7 +43,7 @@ def distance_approximation(filename):
         masks = r.masks  # Masks object for segmentation masks outputs
         keypoints = r.keypoints  # Keypoints object for pose outputs
         probs = r.probs  # Probs object for classification outputs
-        r.show()  # display to screen
+        # r.show()  # display to screen
         r.save(filename=f'olives/{filename}.jpg')  # save to disk
 
     cv2.imshow("Image", img)

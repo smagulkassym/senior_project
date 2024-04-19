@@ -1,0 +1,3 @@
+{"525nm": 1000, "680nm": 7500, "740nm": 3000, "980nm": 3000, "1450nm": 6000, "525nm_amb": 130, "680nm_amb": 240, "740nm_amb": 140, "980nm_amb": 130, "1450nm_amb": 500, "longitude": 40.7128, "latitude": -74.006, "tree_pos": "middle"}
+{"525nm": 1000, "680nm": 7500, "740nm": 3000, "980nm": 3000, "1450nm": 6000, "525nm_amb": 130, "680nm_amb": 240, "740nm_amb": 140, "980nm_amb": 130, "1450nm_amb": 500, "longitude": 40.7128, "latitude": -74.006, "tree_pos": "middle"}
+{"525nm": 1000, "680nm": 7500, "740nm": 3000, "980nm": 3000, "1450nm": 6000, "525nm_amb": 130, "680nm_amb": 240, "740nm_amb": 140, "980nm_amb": 130, "1450nm_amb": 500, "longitude": 40.7128, "latitude": -74.006, "tree_pos": "middle"}
