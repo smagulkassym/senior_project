@@ -28,8 +28,11 @@ def save_data_to_db(data):
         )
         # Add the entry to the session
         session.add(entry)
+
         # Commit the session to save the changes to the database
         session.commit()
+
+        print("id : ", entry.id)
     except Exception as e:
         # Rollback the session if an error occurs
         session.rollback()
