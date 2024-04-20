@@ -11,6 +11,19 @@
 
 ## Description
 
+As acute labor shortages and brain drain are being
+monitored in Europe, the demand for experienced specialists and
+labor in various fields is increasing. One such field is agriculture,
+specifically the olive industry. As the olive industry is one of
+the significant aspects of agriculture in the Mediterranean part
+of Europe, the solution would be vital. To address this issue,
+we are introducing - the “Olive Ripeness Detection System.”,
+an automated image-processing tool designed to estimate the
+ripeness of olives accurately. Our system is a prerequisite system
+for automated means of harvesting high-quality olive fruits in
+organic farms, which provides data-driven decisions for the
+farmers.
+
 ## Stack of Technologies 
 
 ### Hardware
@@ -19,7 +32,6 @@
  - A9G GPS/GPRS module
  - Nodemcu 1.0 or ESP32 Dev Module
  - Olivometer sensor:
-
      - 74hc595 shift register
      - Adafruit ADS1115 ADC
      - Diods, photosensors, resistors, and transistors
@@ -36,5 +48,7 @@
  - Ultralitics 8.2.2
 
 ### Frontend
+
+ - 
 
 ### 
