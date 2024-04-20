@@ -49,4 +49,18 @@ The project is managed and version-controlled using Git and GitHub, which allows
  - Google Heatmap API
  - Google Maps API
 
-### 
+## Installation
+
+### `Step 1:` Install Python3
+### `Step 2:` Install Flask
+```
+    pip3 install Flask
+```
+### `Step 3:` Install SQLAlchemy
+```
+    pip3 install sqlalchemy
+```
+### `Step 4:` Install OpenCV
+```
+    pip3 install ultralitics
+```
