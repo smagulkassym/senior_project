@@ -11,18 +11,13 @@
 
 ## Description
 
-As acute labor shortages and brain drain are being
-monitored in Europe, the demand for experienced specialists and
-labor in various fields is increasing. One such field is agriculture,
-specifically the olive industry. As the olive industry is one of
-the significant aspects of agriculture in the Mediterranean part
-of Europe, the solution would be vital. To address this issue,
-we are introducing - the “Olive Ripeness Detection System.”,
-an automated image-processing tool designed to estimate the
-ripeness of olives accurately. Our system is a prerequisite system
-for automated means of harvesting high-quality olive fruits in
-organic farms, which provides data-driven decisions for the
-farmers.
+The "Olive Ripeness Detection System" is a comprehensive project that integrates both hardware and software components to automate the process of determining the ripeness of olives. This system is designed to address the challenges of labor shortages and the need for specialized expertise in the olive industry, particularly in the Mediterranean region.
+
+The hardware components of the system include an Adafruit Sharp Memory display with a resolution of 400x240 for visual output, an A9G GPS/GPRS module for location tracking and data transmission, and a Nodemcu 1.0 or ESP32 Dev Module for controlling the system. The system also includes a custom-built "Olivometer" sensor, which uses a 74hc595 shift register, an Adafruit ADS1115 ADC, and various diodes, photosensors, resistors, and transistors to measure the ripeness of the olives.
+
+On the software side, the system uses Python as the primary programming language. Image processing is handled by OpenCV, a powerful open-source library for computer vision tasks. The machine learning component, which classifies the olives based on their ripeness, is built using TensorFlow, a popular library for developing and training ML models.
+
+The project is managed and version-controlled using Git and GitHub, which allows for efficient collaboration among team members and ensures that changes to the codebase are tracked and managed effectively.
 
 ## Stack of Technologies 
 
@@ -49,6 +44,9 @@ farmers.
 
 ### Frontend
 
- - 
+ - HTML5
+ - JavaScript
+ - Google Heatmap API
+ - Google Maps API
 
 ### 
