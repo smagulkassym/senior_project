@@ -1,10 +1,11 @@
 from flask import Blueprint, request
 from utils.validate_data import validate_data
 from utils.save_data import save_data
+from utils.get_data import get_data
 
 home_bp = Blueprint('home', __name__)
 
-@home_bp.route("/", methods=["POST"])
+@home_bp.route("/", methods=["POST", "GET"])
 def home():
     if request.method == "POST":
         data = request.get_json()
@@ -27,3 +28,6 @@ def home():
                 "success": False,
                 "message": "Error: Missing fields in received data"
             }, 400
+    
+    if request.method == "GET":
+        return get_data()
