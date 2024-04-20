@@ -61,11 +61,15 @@ The project is managed and version-controlled using Git and GitHub, which allows
 ```
     pip3 install sqlalchemy
 ```
-### `Step 5:` Install OpenCV
+### `Step 5:` Install Flask-CORS
+```
+    pip3 install flask-cors
+```
+### `Step 6:` Install OpenCV
 ```
     pip3 install ultralitics
 ```
-### `Step 6:` Run the project
+### `Step 7:` Run the project
 ```
     python3 main.py
 ```
