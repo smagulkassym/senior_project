@@ -15,14 +15,14 @@
 
 ### Hardware
 
-Adafruit Sharp Memory display 400x240
-A9G GPS/GPRS module
-Nodemcu 1.0 or ESP32 Dev Module
-Olivometer sensor но эт чисто проф делает(
-    74hc595 shift register
-    Adafruit ADS1115 ADC
-    Diods, photosensors, resistors, and transistors
-)
+    Adafruit Sharp Memory display 400x240
+    A9G GPS/GPRS module
+    Nodemcu 1.0 or ESP32 Dev Module
+    Olivometer sensor (
+        74hc595 shift register
+        Adafruit ADS1115 ADC
+        Diods, photosensors, resistors, and transistors
+    )
 
 ### Backend
 
