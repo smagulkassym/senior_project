@@ -52,15 +52,20 @@ The project is managed and version-controlled using Git and GitHub, which allows
 ## Installation
 
 ### `Step 1:` Install Python3
-### `Step 2:` Install Flask
+### `Step 2:` Install Pip3
+### `Step 3:` Install Flask
 ```
     pip3 install Flask
 ```
-### `Step 3:` Install SQLAlchemy
+### `Step 4:` Install SQLAlchemy
 ```
     pip3 install sqlalchemy
 ```
-### `Step 4:` Install OpenCV
+### `Step 5:` Install OpenCV
 ```
     pip3 install ultralitics
+```
+### `Step 6:` Run the project
+```
+    python3 main.py
 ```
