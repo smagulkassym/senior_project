@@ -31,6 +31,15 @@
 
 ### Backend
 
+ - Python 3.9.13
+ - Flask 3.0.3
+ - SQLAlchemy 2.0.29
+
+### Algorithm
+
+ - OpenCV 4.8.0.74
+ - Ultralitics 8.2.2
+
 ### Frontend
 
 ### 
