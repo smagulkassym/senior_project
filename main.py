@@ -10,4 +10,4 @@ app.register_blueprint(home_bp)
 app.register_blueprint(upload)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
