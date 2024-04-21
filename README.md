@@ -40,7 +40,7 @@ The project is managed and version-controlled using Git and GitHub, which allows
 ### Algorithm
 
  - OpenCV 4.8.0.74
- - Ultralitics 8.2.2
+ - Ultralytics 8.2.2
 
 ### Frontend
 
@@ -67,7 +67,7 @@ The project is managed and version-controlled using Git and GitHub, which allows
 ```
 ### `Step 6:` Install OpenCV
 ```
-    pip3 install ultralitics
+    pip3 install ultralytics
 ```
 ### `Step 7:` Run the project
 ```
