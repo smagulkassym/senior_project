@@ -1,5 +1,8 @@
 // This function will be responsible for fetching the data from your API and then creating the heatmap
+
+console.log('Script loaded');
 async function initMap() {
+    console.log('initMap loaded');
     const mapCenter = { lat: 0, lng: 0 }; // Center of the map for initial display
     const map = new google.maps.Map(document.getElementById('map'), {
         zoom: 3, // Zoom level to show the entire globe
