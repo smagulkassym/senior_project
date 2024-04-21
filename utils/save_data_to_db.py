@@ -12,16 +12,22 @@ def save_data_to_db(data):
     try:
         # Create a new DataEntry instance using the received data
         entry = DataEntry(
+            nm_365 = data["nm_365"],
+            nm_405 = data["nm_405"],
             nm_525=data["525nm"],
             nm_680=data["680nm"],
             nm_740=data["740nm"],
             nm_980=data["980nm"],
             nm_1450=data["1450nm"],
+            nm_0=data["0nm"],
+            nm_365_amb = data["nm_365_amb"],
+            nm_405_amb = data["nm_405_amb"],
             nm_525_amb=data["525nm_amb"],
             nm_680_amb=data["680nm_amb"],
             nm_740_amb=data["740nm_amb"],
             nm_980_amb=data["980nm_amb"],
             nm_1450_amb=data["1450nm_amb"],
+            nm_0_amb=data["0nm_amb"],
             longitude=data["longitude"],
             latitude=data["latitude"],
             tree_pos=data["tree_pos"]

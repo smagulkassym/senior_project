@@ -12,4 +12,4 @@ app.register_blueprint(upload)
 app.register_blueprint(heatmap)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run("0.0.0.0", 5000, debug=True)
