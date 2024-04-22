@@ -1,5 +1,7 @@
 # Senior Project - Olive Ripeness Detection
 
+![Olive Image](https://github.com/smagulkassym/senior_project.git/senior_project/uploads/20240419_054651_2.jpg?raw=true)
+
 ## Advisor: Dr. Akhan Almagambetov
 ## Group 38
 
