@@ -3,7 +3,7 @@
 <!-- ![Olive Image](https://github.com/smagulkassym/senior_project/blob/main/uploads/20240419_232433_0.jpg) -->
 
 <p align="center">
-  <img src="https://github.com/smagulkassym/senior_project/blob/main/uploads/20240419_232433_0.jpg" width="350" title="Olive Image">
+  <img src="https://github.com/smagulkassym/senior_project/blob/main/uploads/figure2.jpg" width="350" title="Olive Image">
 </p>
 
 ## Advisor: Dr. Akhan Almagambetov
