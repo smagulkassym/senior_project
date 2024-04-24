@@ -9,11 +9,9 @@
 ## Advisor: Dr. Akhan Almagambetov
 ## Group 38
 
-1. Nurbol Bizhigit
+1. [Nurbol Bizhigit](https://www.linkedin.com/in/nurbol-bizhigit-63bb0b14b/)
 2. [Smagulkassym Arslanov](https://www.linkedin.com/in/smagulkassym/)
 3. Akmal Shadiyev
-3. Alisher Dunenov
-4. Sarvar Khavazmatov
 
 ## Description
 
